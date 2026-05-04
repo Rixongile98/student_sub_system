@@ -8,9 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Student / ID Number** | [Your Student ID] |
-| **Date** | [DD Month YYYY] |
+| **Student Name** | [Judith Maluleke] |
+| **Student / ID Number** | [9812080758088] |
+| **Date** | [08/12/ 1998] |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
 | **Assessor Signature** | [To be completed by assessor] |
