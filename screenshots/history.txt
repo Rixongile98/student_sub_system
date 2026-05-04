@@ -1,0 +1,17 @@
+  105  ssh-keygen -t ed25519 -C "malulekexongilejudy@gmail.com"
+  106  eval "$(ssh-agent -s)"
+  107  ssh-add ~/.ssh/id_ed25519
+  108  cat ~/.ssh/id_ed25519.pub
+  109  ssh -T git@github.com
+  110  git clone git@github.com:Rixongile98/student_sub_system.git
+  111  cd student_sub_system
+  112  cd screenshots
+  113  git add .
+  114  git commit -m "added screenshots"
+  115  touch index.html
+  116  touch about.html
+  117  touch history.txt
+  118  git add .
+  119  git commit -m "added my files"
+  120  history
+
